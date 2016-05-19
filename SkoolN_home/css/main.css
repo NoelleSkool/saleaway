@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Monoton|Coming+Soon);
+html {}
+
+body {
+    width: 1200px;
+    background-color: #12f6ff;
+    
+}
+
+
+
+h1 {
+    font-family: 'Monoton', cursive;
+    font-size: 200px;
+    text-transform: uppercase;
+    color: crimson;
+    text-align: center;
+    padding-top: 75px;
+}
+
+a {
+    font-family: 'Coming Soon', cursive;
+    font-size: 50px;
+    color: #ffed19;
+    text-decoration: none;
+    padding: 12px;
+}
+
+
+header {
+    height: 300px;
+    background: #000000;
+}
+
+
+
+a:hover {
+    color: #0ff8f8;
+}
+
+
+nav {
+    height: 75px;
+    background: #ea1c1c;
+    border-top: 20px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+ul {
+    list-style-type: none;
+    padding-top: 20px;
+    margin-left: 275px
+}
+
+li {
+    display: inline;
+    border-right: 1px solid #666;
+}
+
+
+.photos {
+    margin-left: 150px;
+    padding: 50px;
+    border: 10px;
+    
+}
+
+footer {
+   font-family: 'Coming Soon', cursive;
+   font-size: 25px;
+    color:black;
+    margin-left: 450px;
+}
